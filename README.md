@@ -1,7 +1,7 @@
 ### Olá, meu nome é Marco Aurélio Niederauer Borges Júnior 👋
 
 🔭 Entrando em IA na faculdade</br>
-🌱 Estudando JavaScript</br>
+🌱 Estudando JavaScript/React</br>
 
 <hr>
 <div align="center" >
